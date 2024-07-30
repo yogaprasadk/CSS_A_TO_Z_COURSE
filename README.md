@@ -54,3 +54,13 @@
 
 <h3>CSS Transforms MasterClass | Sigma Web Development Course - Tutorial #19</h3>
 <a href="https://youtu.be/GGlzzLTLzxs?si=rcqRhibbuvhjcIz8"><img src="https://github.com/user-attachments/assets/da2ca2df-428b-4e0d-b740-31eebd1b14d9"/></a>
+
+<h3>CSS Animations | Sigma Web Development Course - Tutorial #20</h3>
+<a href="https://youtu.be/cDLVIoXW-OQ?feature=shared"><img src="https://github.com/user-attachments/assets/d3f9c407-0764-4da6-b141-3d60e39b4e01"/></a>
+
+<h3>CSS Object-fit and Object-cover | Sigma Web Development Course - Tutorial #21</h3>
+<a href="https://youtu.be/ognrhoi0C-w?feature=shared"><img src="https://github.com/user-attachments/assets/9724b603-a50f-4e9f-bba4-c553f69d88f0"></a>
+
+<h3>CSS Filters | Sigma Web Development Course - Tutorial #22</h3>
+<a href="https://youtu.be/tSzDHVWG1hI?feature=shared"><img src="https://github.com/user-attachments/assets/58bd4ad0-d667-4753-8561-63a0a4060742"/></a>
+
