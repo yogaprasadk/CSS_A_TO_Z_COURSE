@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Thanks+To+Harry+Bhaiya;sigmawebdev+-+css+videos" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Thanks+To+Harry+Bhaiya)](https://git.io/typing-svg)
 <br/>
 <h3>Introduction to CSS | Sigma Web Development Course - Tutorial #1</h3>
 <a href="https://youtu.be/1dkfuga2_Ps?si=TKBeTRE3v6PyTw_Q"><img src="https://github.com/user-attachments/assets/831bfa6e-38ae-4021-b791-787a8cd044bc"/></a>
@@ -66,4 +66,6 @@
 <h3>CSS Filters | Sigma Web Development Course - Tutorial #22</h3>
 <a href="https://youtu.be/tSzDHVWG1hI?feature=shared"><img src="https://github.com/user-attachments/assets/58bd4ad0-d667-4753-8561-63a0a4060742"/></a>
 <br/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=CSS+VIDEOS+COMPLETED+%E2%9C%8C" alt="Typing SVG" /></a>
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=CSS+VIDEOS+COMPLETED+%E2%9C%8C)](https://git.io/typing-svg)
