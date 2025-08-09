@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+p {
+  border: 3px solid black;
+  border-inline-start-color: darkblue;
+  border-radius: 20px;
+  border-top-color: blue;
+  margin: 3px 4px 5px 4px;
+  padding: 4px 4px 4px 4px;
+}
