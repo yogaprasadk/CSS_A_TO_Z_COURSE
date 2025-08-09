@@ -1,10 +1,15 @@
 * {
   margin: 0;
   padding: 0;
+  /* it will take padding border content  */
+  box-sizing: border-box;
+  /* it will take the content only */
+  /* box-sizing: content-box */
 }
 
 h1,
 p {
+  
   border: 3px solid black;
   border-inline-start-color: darkblue;
   border-radius: 20px;
